@@ -4,5 +4,6 @@ public class Main {
         System.out.println(">:)");
         System.out.println("Hey gangster");
         System.out.println("Doofust");
+        System.out.println(":(:(:(");
     }
 }
